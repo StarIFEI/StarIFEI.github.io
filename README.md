@@ -15,7 +15,7 @@
 &emsp;感谢支持！！！  
 
 ***
-## 关于FL Studio  [下载与安装](docs/FL%20Studio.md)  
+## 关于FL Studio  [下载与安装](docs/FLStudio.md)  
 ***
 
 ![图1](https://img3.vilipix.com/picture/pages/regular/2021/07/09/21/21/92127758_p0_master1200.jpg)
