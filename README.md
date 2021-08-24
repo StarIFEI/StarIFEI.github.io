@@ -7,7 +7,6 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![高木同学](https://ascii2d.net/thumbnail/7/4/5/e/745e8873697fd91f33c5692ac2438c8c.jpg)
 > ### _我的视频_ ###
 > > ___NEW___ [[OP/midi]言わないけどね——大原ゆい子 钢琴扒带翻弹附midi文件](https://www.bilibili.com/video/BV1nQ4y117hC/) 
@@ -139,7 +138,7 @@
       |&nbsp;|&ensp;|&emsp;|&thinsp;|
       ```
       | 细         | 中         | 粗         |     更细     |
-      | ---------- | ---------- | ---------- | :----------: |
+      | ---------- | ---------- | ---------- | ---------- |
       | &nbsp+分号 | &ensp+分号 | &emsp+分号 | &thinsp+分号 |
 
 
