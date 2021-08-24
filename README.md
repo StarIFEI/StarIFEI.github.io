@@ -1,10 +1,10 @@
 # _欢迎来到 StarIFEI 的个人博客_
 
-* ## _BILIBIL萌新 UP主_ &emsp;&emsp;（[StarIFEI是个什么屑 ? ? ?](docs/aboutme.md)）
+* ## _BILIBIL萌新 UP主_ &emsp;（[StarIFEI是个什么屑 ? ? ?](docs/aboutme.md)）
 
 ---
 
-* ## 关于FL Studio  [下载与安装](docs/FLStudio.md)  
+* ## 关于FL Studio &emsp;[下载与安装](docs/FLStudio.md)  
 
 ---
 
