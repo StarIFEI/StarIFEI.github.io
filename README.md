@@ -1,6 +1,6 @@
 # _欢迎来到 StarIFEI 的个人博客_
 
-* ## _BILIBIL萌新UP主_ &emsp;&emsp;[更多](https://github.com/StarIFEI/StarIFEI.github.io/blob/main/docs/more.html)
+* ## _BILIBIL萌新UP主_ &emsp;&emsp;[更多](docs/more.html)
 > ### _主页_ ###
 > [Star丶亦非的主页](https://space.bilibili.com/386332727)
 > 
