@@ -4,11 +4,11 @@
 
 ---
 
-## 关于FL Studio  [下载与安装](docs/FLStudio.md)  
+* ## 关于FL Studio  [下载与安装](docs/FLStudio.md)  
 
 ---
 
-![图1](https://img3.vilipix.com/picture/pages/regular/2021/07/09/21/21/92127758_p0_master1200.jpg)
+&emsp;&emsp;![图1](https://img3.vilipix.com/picture/pages/regular/2021/07/09/21/21/92127758_p0_master1200.jpg)
 * ## _学习笔记_ ##
 ## Markdown ##
 1. ### _标题的使用_ ###
