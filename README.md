@@ -6,7 +6,8 @@
 &emsp; ![派蒙](https://ascii2d.net/thumbnail/9/3/2/3/93235c8d510ccc84d6bfec863930544d.jpg)
 ![高木同学](https://ascii2d.net/thumbnail/7/4/5/e/745e8873697fd91f33c5692ac2438c8c.jpg)
 > ### _我的视频_ ###
-> > ___NEW___ [[OP/midi]言わないけどね——大原ゆい子 钢琴扒带翻弹附midi文件](https://www.bilibili.com/video/BV1nQ4y117hC/) 
+> > ___NEW___ [[OP/midi]言わないけどね——大原ゆい子 钢琴扒带翻弹附midi文件](https://www.bilibili.com/video/BV1nQ4y117hC/)
+![](http://i0.hdslb.com/bfs/archive/99581d0c699b2b49f7a2b4755ec60609705a8488.jpg)
 >
 > >[[钢琴/midi]小さな恋のうた——高桥李依 扒带钢琴翻弹附midi文件](https://www.bilibili.com/video/BV1B44y1y7dL/)
 > > [[FL工程分享]超燃电子Let Me Out——Drop Remix](https://www.bilibili.com/video/BV1qL411n7pv)
@@ -22,12 +23,12 @@
 ## Markdown ##
 1. ### _标题的使用_ ###
       ```
-      * /# 一级标题
-      * /## 二级标题
-      * /### 三级标题
-      * /#### 四级标题
-      * /##### 五级标题
-      * /###### 六级标题
+      # 一级标题
+      ## 二级标题
+      ### 三级标题
+      #### 四级标题
+      ##### 五级标题
+      ###### 六级标题
       ```
 2. ### _字体的使用_ ###
       ```
