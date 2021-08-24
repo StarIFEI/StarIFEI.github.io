@@ -156,7 +156,7 @@
       |&nbsp;|&ensp;|&emsp;|&thinsp;|
       ```     
 
-&emsp;&emsp; ![图片2](https://raw.githubusercontent.com/StarIFEI/StarIFEI.github.io/master/image/64992682_p0_master1200.jpg)
+&emsp;&emsp; ![图片2](image/64992682_p0_master1200.jpg)
 
-欢迎提供反馈意见  
+欢迎提供反馈意见  [更更更多](docs/interacts/more.md)
 _联系致邮箱—__starifei@gmail.com | 2754728380@qq.com___
