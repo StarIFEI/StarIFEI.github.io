@@ -2,7 +2,7 @@
 
 * ## _BILIBIL萌新UP主_ ##
 > ### _主页_ ###
-&emsp; [Star丶亦非的主页](https://space.bilibili.com/386332727)          
+&emsp; [Star丶亦非的主页](https://space.bilibili.com/386332727) 
 &emsp; ![派蒙](https://ascii2d.net/thumbnail/9/3/2/3/93235c8d510ccc84d6bfec863930544d.jpg)
 ![高木同学](https://ascii2d.net/thumbnail/7/4/5/e/745e8873697fd91f33c5692ac2438c8c.jpg)
 > ### _我的视频_ ###
@@ -138,5 +138,6 @@
       | 细         | 中         | 粗         |     更细     |
       | ---------- | ---------- | ---------- | ---------- |
       | &nbsp+分号 | &ensp+分号 | &emsp+分号 | &thinsp+分号 |
+&emsp; [图片2](https://github.com/StarIFEI/StarIFEI.github.io/blob/main/image/64992682_p0_master1200.jpg) 
 
 
