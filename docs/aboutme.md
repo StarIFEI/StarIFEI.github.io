@@ -1,4 +1,5 @@
-# StarIFEI
+# 关于StarIFEI  
+
 ![主页](..\image\Logo.png)  
 > ## _主页_ ##  
 > [Star丶亦非的主页](https://space.bilibili.com/386332727)
@@ -17,4 +18,5 @@
 
 想了解它更多么QwQ（[更多](../docs/more.html)）
 
----
+---  
+([返回上一级](../README.md))
