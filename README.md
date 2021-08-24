@@ -9,7 +9,7 @@
 
 > ### _我的视频_ ###  
 > > ___NEW___ [[OP/midi]言わないけどね——大原ゆい子 钢琴扒带翻弹附midi文件](https://www.bilibili.com/video/BV1nQ4y117hC/)
-![](http://i0.hdslb.com/bfs/archive/99581d0c699b2b49f7a2b4755ec60609705a8488.jpg)
+>![](http://i0.hdslb.com/bfs/archive/99581d0c699b2b49f7a2b4755ec60609705a8488.jpg)
 > 
 > >[[钢琴/midi]小さな恋のうた——高桥李依 扒带钢琴翻弹附midi文件](https://www.bilibili.com/video/BV1B44y1y7dL/)   
 > > [[FL工程分享]超燃电子Let Me Out——Drop Remix](https://www.bilibili.com/video/BV1qL411n7pv)  
