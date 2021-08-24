@@ -138,6 +138,6 @@
       | 细         | 中         | 粗         |     更细     |
       | ---------- | ---------- | ---------- | ---------- |
       | &nbsp+分号 | &ensp+分号 | &emsp+分号 | &thinsp+分号 |
-&emsp; [图片2](https://github.com/StarIFEI/StarIFEI.github.io/blob/main/image/64992682_p0_master1200.jpg) 
+&emsp; ![图片2](https://github.com/StarIFEI/StarIFEI.github.io/blob/main/image/64992682_p0_master1200.jpg) 
 
 
