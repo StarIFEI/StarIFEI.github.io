@@ -32,7 +32,7 @@ __HTML 标题（Heading）是通过 <h1> - <h6> 等标签进行定义的。__
 ### HTML 段落  
 __HTML 段落是通过 <p> 标签进行定义的。__  
 ### HTML 链接  
-__HTML 链接是通过 <a> 标签进行定义的。__  
+__HTML 链接是通过 <a> 标签进行定义的。__   
 ~~~  
 <a href="http://www.w3school.com.cn">This is a link</a>
 ~~~  
