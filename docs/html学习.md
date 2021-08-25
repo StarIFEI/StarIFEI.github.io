@@ -85,5 +85,6 @@ _注释：开始标签常被称为开放标签（opening tag），结束标签�
 &lt;hr/&gt;为水平分割线
   
 [鸣谢](https://www.cnblogs.com/xudong-bupt/p/3909416.html)  
-  
+内容摘自——[W3chool](https://www.w3school.com.cn/html/html_examples.asp)  
+
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([返回上一级](../README.md))
