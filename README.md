@@ -17,12 +17,12 @@ ___内附惊喜___
 > ## 线上学习 ##  
   地理学科([开始学习](docs/地理学习.md))  
 > ### ![地理](../image/Geo.png)
-
+  
 > ## 自学习笔记 ##  
-## HTML &emsp;([开始学习](docs/html学习.md))  
-## Markdown &emsp;([开始学习](docs/markdown学习.md))   
+  HTML &emsp;([开始学习](docs/html学习.md))  
+  Markdown &emsp;([开始学习](docs/markdown学习.md))   
+   
 ---  
-
 &emsp;&emsp; ![图片2](image/64992682_p0_master1200.jpg)
 
 欢迎提供反馈意见  
