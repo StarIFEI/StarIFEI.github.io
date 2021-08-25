@@ -6,9 +6,9 @@
 介绍:FLStudio20中文破解版下载，FLStudio又被国内网友称之为保卫萝卜，旗下FLStudio20是Image-Line公司成立20周年而发布的一个版本。FLStudio是目前互联网上最优秀的完整的软件音乐制作环境或数字音频工作站，FLStudio包含了编排，录制，编辑，混音和掌握专业品质音乐所需的一切。  
 * _[FL Studio 20 下载](docs/FLStudio.md)_<br>
 * _[More Plugins 下载](docs/plugins.md)_<br>
----
+---<br>
 ![图1](https://img3.vilipix.com/picture/pages/regular/2021/07/09/21/21/92127758_p0_master1200.jpg)
----
+---<br>
 > ## 线上学习 ##<br>
 地理学科([开始学习](docs/地理学习.md))<br>
 ![地理](../image/Geo.png)<br>
