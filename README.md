@@ -15,15 +15,16 @@
 ![图1](https://img3.vilipix.com/picture/pages/regular/2021/07/09/21/21/92127758_p0_master1200.jpg)
 
 ---
-<br>
-> ## 线上学习<br>
-地理学科([开始学习](docs/地理学习.md))<br>
-![地理](../image/Geo.png)<br>
-> ## 自学习笔记<br>
-HTML &emsp;([开始学习](docs/html学习.md))  
-Markdown &emsp;([开始学习](docs/markdown学习.md))   
-更专业的markdown学习网站[https://markdown.com.cn/](https://markdown.com.cn/)
+
+> ## 线上学习
+地理学科([开始学习](docs/地理学习.md))
+![地理](../image/Geo.png)
+> ## 自学习笔记
+HTML &emsp;([开始学习](docs/html学习.md))    
+Markdown &emsp;([开始学习](docs/markdown学习.md))    
+更专业的markdown学习网站[https://markdown.com.cn/](https://markdown.com.cn/)   
 ---
-&emsp;&emsp; ![图片2](image/64992682_p0_master1200.jpg)
-欢迎提供反馈意见  
+
+&emsp;&emsp; ![图片2](image/64992682_p0_master1200.jpg)   
+欢迎提供反馈意见   
 _联系致邮箱—__starifei@gmail.com | 2754728380@qq.com___
