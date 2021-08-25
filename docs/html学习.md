@@ -88,7 +88,7 @@ _注释：开始标签常被称为开放标签（opening tag），结束标签�
 内容摘自——[W3chool](https://www.w3school.com.cn/html/html_examples.asp)  
   
 <body>
-    <input type="button" onclick="shareQQzone();" value="分享"></input>
+    <input type="button" onclick="shareQQzone();" value="分享">
 </body>
 <script src="http://qzonestyle.gtimg.cn/qzone/app/qzlike/qzopensl.js#jsdate=20111201" charset="utf-8"></script>
 <script>
