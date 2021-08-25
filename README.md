@@ -7,10 +7,12 @@
 * _[FL Studio 20 下载](docs/FLStudio.md)_<br>
 
 * _[More Plugins 下载](docs/plugins.md)_<br>
-<br>
----<br>
+
+---
+
 ![图1](https://img3.vilipix.com/picture/pages/regular/2021/07/09/21/21/92127758_p0_master1200.jpg)
----<br>
+
+---
 <br>
 > ## 线上学习<br>
 地理学科([开始学习](docs/地理学习.md))<br>
