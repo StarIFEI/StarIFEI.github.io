@@ -5,10 +5,13 @@ ___内附惊喜___
 
 ---
 
-> ## 关于FL Studio &emsp;([下载与安装](docs/FLStudio.md))   
-
-&emsp;介绍:FL Studio20中文破解版下载，FL Studio又被国内网友称之为保卫萝卜，旗下FL Studio20是Image-Line公司成立20周年而发布的一个版本。FL Studio是目前互联网上最优秀的完整的软件音乐制作环境或数字音频工作站，FL Studio包含了编排，录制，编辑，混音和掌握专业品质音乐所需的一切。  
-
+> ## 关于FL Studio  
+介绍:FLStudio20中文破解版下载，FLStudio又被国内网友称之为保卫萝卜，旗下FLStudio20是Image-Line公司成立20周年而发布的一个版本。FLStudio是目前互联网上最优秀的完整的软件音乐制作环境或数字音频工作站，FLStudio包含了编排，录制，编辑，混音和掌握专业品质音乐所需的一切。  
+  
+* _[FL Studio 20 下载](docs/FLStudio.md))_  
+  
+* _[More Plugins 下载](docs/plugins.md)_
+  
 ---  
 
 ![图1](https://img3.vilipix.com/picture/pages/regular/2021/07/09/21/21/92127758_p0_master1200.jpg)  
