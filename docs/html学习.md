@@ -30,9 +30,9 @@ HTML 标签通常是'成对'出现的，比如 &lt; b &gt; 和 &lt; /b &gt;
 ---
   
 ### HTML 标题  
-__HTML 标题（Heading）是通过 <h1> - <h6> 等标签进行定义的。__  
+__HTML 标题（Heading）是通过 &lt;h1&gt; - &lt;h6&gt; 等标签进行定义的。__  
 ### HTML 段落  
-__HTML 段落是通过 <p> 标签进行定义的。__  
+__HTML 段落是通过 &lt;p&gt; 标签进行定义的。__  
 ### HTML 链接  
 __HTML 链接是通过 &lt; a &gt; 标签进行定义的。__   
 ~~~  
