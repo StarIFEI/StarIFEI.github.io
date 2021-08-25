@@ -19,8 +19,8 @@ ___内附惊喜___
 > ### ![地理](../image/Geo.png)
 
 > ## 自学习笔记 ##  
-
-## Markdown &emsp;([开始学习](docs/markdown学习.md))
+## HTML &emsp;([开始学习](docs/html学习.md))  
+## Markdown &emsp;([开始学习](docs/markdown学习.md))  
 1. ### _标题的使用_ ###  
 
       ```
