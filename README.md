@@ -1,5 +1,5 @@
 # _欢迎来到 StarIFEI 的个人博客_<br>
-> ## BILIBILI萌新 UP主 &emsp;([StarIFEI是个什么屑 ? ? ?](docs/aboutme.md))
+## BILIBILI萌新 UP主 &emsp;([StarIFEI是个什么屑 ? ? ?](docs/aboutme.md))
 ***内附惊喜***<br>
 ---<br>
 > ## 关于FL Studio<br>
