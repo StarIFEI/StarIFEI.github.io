@@ -86,5 +86,41 @@ _注释：开始标签常被称为开放标签（opening tag），结束标签�
   
 [鸣谢](https://www.cnblogs.com/xudong-bupt/p/3909416.html)  
 内容摘自——[W3chool](https://www.w3school.com.cn/html/html_examples.asp)  
-
+  
+<body>
+    <input type="button" onclick="shareQQzone();" value="分享"></input>
+</body>
+<script src="http://qzonestyle.gtimg.cn/qzone/app/qzlike/qzopensl.js#jsdate=20111201" charset="utf-8"></script>
+<script>
+    //QQ空间分享方法:这样写可以对分享事件进行绑定
+    function shareQQzone(){
+		//这里填写跳转的网站
+        var _url = 'https://starifei.github.io/docs/html%E5%AD%A6%E4%B9%A0.html';
+        var _showcount = '1'
+		//分享链接后我的评论语句
+        var _desc = '博客分享';
+		//分享的描述
+        var _summary = 'StarIFEI’s blog';
+		//标题，设置的标题
+        var _title = 'HTML学习';
+		//设置名称，貌似没有什么用
+        var _site = '没有显示';
+		//添加的图片，最好是正方形的
+        var _pic = 'https://img3.vilipix.com/picture/pages/regular/2021/07/09/21/21/92127758_p0_master1200.jpg';
+		// 图片宽度，不理解
+        var _width= '800px';
+		// 图片高度，不理解
+        var _height= '200px';
+		//分享的链接，由上面属性拼接而成
+        var _shareUrl = 'http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?';
+        _shareUrl += 'url=' + encodeURIComponent(_url||document.location);   //参数url设置分享的内容链接|默认当前页location
+        _shareUrl += '&showcount=' + _showcount||0;      //参数showcount是否显示分享总数,显示：'1'，不显示：'0'，默认不显示
+        _shareUrl += '&desc=' + encodeURIComponent(_desc||'分享的描述');    //参数desc设置分享的描述，可选参数
+        _shareUrl += '&summary=' + encodeURIComponent(_summary||'分享摘要');    //参数summary设置分享摘要，可选参数
+        _shareUrl += '&title=' + encodeURIComponent(_title||document.title);    //参数title设置分享标题，可选参数
+        _shareUrl += '&site=' + encodeURIComponent(_site||'');   //参数site设置分享来源，可选参数
+        _shareUrl += '&pics=' + encodeURIComponent(_pic||'');   //参数pics设置分享图片的路径，多张图片以＂|＂隔开，可选参数
+        window.open(_shareUrl,'_blank','width='+_width+',height='+_height+',top='+(screen.height-_height)/2+',left='+(screen.width-_width)/2+',toolbar=no,menubar=no,scrollbars=no,resizable=1,location=no,status=0');
+    }
+</script>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([返回上一级](../README.md))
