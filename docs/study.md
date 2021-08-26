@@ -2,7 +2,15 @@
 ![学习插图1](/image/study.png)  
 <img align="right" src="/image/study2.png"/>
 [英语学习](study/English.md)  
-[地理学习](study/Geography.md)!
+[地理学习](study/Geography.md)
+  
+    
+    
+     
+     
+     
+     
+     
   
 更多内容正在制作 · · ·
 
