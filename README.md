@@ -1,5 +1,5 @@
 # _欢迎来到 StarIFEI 的个人博客_
-## 关于博主 &emsp;([StarIFEI是个什么屑 ? ? ?](docs/aboutme.md))
+## 关于博主 &emsp;([StarIFEI是个什么屑 ? ? ?](docs/aboutme.md "点进来看看吧！"))
 ***内附惊喜***
 
 ---------------------------------------------
@@ -7,8 +7,8 @@
 > ## 关于FL Studio<br>
 介绍:FLStudio20中文破解版下载，FLStudio又被国内网友称之为保卫萝卜，旗下FLStudio20是Image-Line公司成立20周年而发布的一个版本。FLStudio是目前互联网上最优秀的完整的软件音乐制作环境或数字音频工作站，FLStudio包含了编排，录制，编辑，混音和掌握专业品质音乐所需的一切。  
 
-* _[FL Studio 20 下载](docs/Music/FLStudio.md)_<br>
-* _[More Plugins 下载](docs/Music/plugins.md)_<br>
+* _[FL Studio 20 下载](docs/Music/FLStudio.md "我是个好人")_<br>
+* _[More Plugins 下载](docs/Music/plugins.md "我是个好人")_<br>
 
 ---------------------------------------------
 
@@ -27,7 +27,7 @@ Markdown &emsp;([开始学习](docs/markdown学习.md))
 
 &emsp;&emsp; ![图片2](image/64992682_p0_master1200.jpg)   
 欢迎提供反馈意见   
-_联系致邮箱—__<starifei@gmail.com> | <2754728380@qq.com>___
+_联系致邮箱—__[starifei@gmail.com | 2754728380@qq.com](#code "提些意见吧,秋梨膏QwQ")___
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[更新日志](docs/log.md)  
 
 ---------------------------------------------
