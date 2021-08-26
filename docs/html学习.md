@@ -1,5 +1,6 @@
 # HTML 网页学习  
 ([返回上一级](../README.md))  
+<body style="background-color:#66CCFF">
 
 ---
 
@@ -98,6 +99,8 @@ __HTML 文档是由 HTML 元素定义的。__
 > &lt;body&amp; 定义 HTML 文档的主体。
 	```
 	<body bgcolor="yellow"> 拥有关于背景颜色的附加信息。
+	在 HTML 4.01 中，不赞成使用 body 元素的 bgcolor 属性；在 XHTML 1.0 Strict DTD 中，不支持 body 元素的 bgcolor 属性。请使用 CSS 代替。
+	CSS 语法：<body style="background-color:#E6E6FA">
 	```
 > TIY : 背景颜色  
 > 属性例子 3:    
