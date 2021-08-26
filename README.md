@@ -23,10 +23,10 @@
 > ## 自学习笔记
 HTML &emsp;([开始学习](docs/html学习.md))    
 Markdown &emsp;([开始学习](docs/markdown学习.md))    
-更专业的markdown学习网站[https://markdown.com.cn/](https://markdown.com.cn/)   
+更专业的markdown学习网站<https://markdown.com.cn/>  
 
 ---------------------------------------------
 
 &emsp;&emsp; ![图片2](image/64992682_p0_master1200.jpg)   
 欢迎提供反馈意见   
-_联系致邮箱—__starifei@gmail.com | 2754728380@qq.com___
+_联系致邮箱—__<starifei@gmail.com> | <2754728380@qq.com>___
