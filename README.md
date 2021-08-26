@@ -30,7 +30,7 @@ Markdown &emsp;([开始学习](docs/markdown学习.md))
 &emsp;&emsp; ![图片2](image/64992682_p0_master1200.jpg)   
 欢迎提供反馈意见   
 _联系致邮箱—__<starifei@gmail.com> | <2754728380@qq.com>___   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[更新日志](docs/log.md)  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[更新日志](docs/log.md)  
 
 ---------------------------------------------
 
