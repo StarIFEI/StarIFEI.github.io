@@ -11,8 +11,22 @@
 > > [《中国地理》系列优质微课（43）第六章 黄土高原的水土流失和整治](https://m.baidu.com/video/page?pd=video_page&nid=8716598859482769966&sign=&word=%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F%E5%BE%AE%E8%AF%BE&oword=%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F%E5%BE%AE%E8%AF%BE&atn=index&frsrcid=4185&ext=%7B%22jsy%22%3A1%7D&top=%7B%22sfhs%22%3A1%2C%22_hold%22%3A2%7D)  
 > > [黄土高原小视频](https://m.baidu.com/vsearch/xsppage?pd=video_page&atn=vertical&dsp=iphone&resource_id=5021&from_sf=1&word=%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F&title=%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F_%E5%B0%8F%E8%A7%86%E9%A2%91&top=%7B%22sfhs%22%3A1%2C%22_hold%22%3A2%7D&pn=10&alr=1&sign=5749143453789729792&se_signs=5000739500976819630_9544324789367687807_5749143453789729792_10083994450264379019_11294643369640015096_9255771973644466280_1406111647707194909_3499896195192897938_1899753014123683927_13546574290438486660&signs=5000739500976819630_9544324789367687807_5749143453789729792_10083994450264379019_11294643369640015096_9255771973644466280_1406111647707194909_3499896195192897938_1899753014123683927_13546574290438486660&frsrcid=4660&frsrcid=4660&ms=1&ms=1&fr0=B&fr1=B&lid=8757788958171047282&referlid=8896987933413239018)  
 
-![地理](image/Geo2.png)  
+## 课堂笔记
+中国河流图  
+![地理](image/中国河流图.jpg)  
+西电东送  
+![地理](image/西电东送.jpg)  
+锡矿带  
+![地理](image/锡矿带.png)  
+昆明准静止风  
+![地理](image/昆明准静止风.png)  
+春冬小麦  
+![地理](image/春冬小麦.png)  
+黄土高原成因  
+![地理](image/黄土高原成因.png)  
+  
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([返回上一级](../README.md))
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([返回上一级](../study.md))  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([返回主页](/README.md))
 
 
