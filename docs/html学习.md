@@ -151,4 +151,4 @@ TIY : 背景颜色
     }
 </script>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([返回上一级](../README.md))
-<body style="background-color:#B0C4DE">
+<body style="background-color:#F0F8FF">
