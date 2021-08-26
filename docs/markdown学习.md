@@ -123,13 +123,20 @@
 	<链接地址>
 	```
   
-**拓展：给链接增加 Title**：
+**拓展：给链接增加 Title**
 链接title是当鼠标悬停在链接上时会出现的文字，这个title是可选的，它放在圆括号中链接地址后面，跟链接地址之间以空格分隔。
 	```
 	这是一个链接 [Markdown语法](https://markdown.com.cn "最好的markdown教程")。
 	```
 渲染效果如下：  
 这是一个链接 [Markdown语法](https://markdown.com.cn "最好的markdown教程")。
+**拓展：引用类型链接 同上效果**
+	```
+I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].  
+[1]: http://google.com/        "666"
+[2]: http://search.yahoo.com/  "555"
+[3]: http://search.msn.com/    "333"
+	```
 8. ### _代码块_ ###
 
 	```java
