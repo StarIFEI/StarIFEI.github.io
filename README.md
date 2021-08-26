@@ -16,14 +16,12 @@
 
 ---------------------------------------------
 
-> ## 线上学习
-地理学科([开始学习](docs/地理学习.md))
-![地理](../image/Geo.png)
-
+> ## 线上学习 &emsp;([开始学习](docs/study.md))
+![学习](../image/study.png)  
 > ## 自学习笔记
 HTML &emsp;([开始学习](docs/html学习.md))    
 Markdown &emsp;([开始学习](docs/markdown学习.md))    
-更专业的markdown学习网站<https://markdown.com.cn/>  
+更专业的markdown学习网站 &emsp;(<https://markdown.com.cn/>)   
 
 ---------------------------------------------
 
@@ -34,4 +32,4 @@ _联系致邮箱—__<starifei@gmail.com> | <2754728380@qq.com>___
 
 ---------------------------------------------
 
-<body style="background-color:#F0F8FF"></body>
+<body style="background-color:#D3D3D3"></body>
