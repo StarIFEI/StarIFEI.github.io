@@ -1,6 +1,5 @@
 # HTML 网页学习  
 ([返回上一级](../README.md))  
-<body style="background-color:#66CCFF">
 
 ---
 
@@ -153,3 +152,4 @@ __HTML 文档是由 HTML 元素定义的。__
     }
 </script>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([返回上一级](../README.md))
+<body style="background-color:#66CCFF">
