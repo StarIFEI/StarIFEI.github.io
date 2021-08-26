@@ -32,4 +32,4 @@ _联系致邮箱—__<starifei@gmail.com> | <2754728380@qq.com>___
 
 ---------------------------------------------
 
-<body style="background-color:#D3D3D3"></body>
+<body style="background-color:#F5F5F5"></body>
