@@ -1,5 +1,5 @@
 # _欢迎来到 StarIFEI 的个人博客_
-## BILIBILI萌新 UP主 &emsp;([StarIFEI是个什么屑 ? ? ?](docs/aboutme.md))
+## 关于博主 &emsp;([StarIFEI是个什么屑 ? ? ?](docs/aboutme.md))
 ***内附惊喜***
 
 ---------------------------------------------
