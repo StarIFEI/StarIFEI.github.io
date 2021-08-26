@@ -82,31 +82,31 @@ __HTML 文档是由 HTML 元素定义的。__
 
 ## HTML 属性  
 * ### 属性实例  
-	HTML 链接由 &lt;a> 标签定义。链接的地址在 href 属性中指定：  
-	```
-	<a href="http://www.w3school.com.cn">This is a link</a>
-	```
-> 更多 HTML 属性实例
+HTML 链接由 &lt;a> 标签定义。链接的地址在 href 属性中指定：   
+```
+<a href="http://www.w3school.com.cn">This is a link</a>
+```
+> 更多 HTML 属性实例  
 > 属性例子 1:    
-> &lt;h1&amp; 定义标题的开始。  
-	```
-	<h1 align="center">拥有关于对齐方式的附加信息。
-	```
-> TIY : 居中排列标题  
+> &lt;h1&amp; 定义标题的开始。   
+```
+<h1 align="center">拥有关于对齐方式的附加信息。
+```
+> TIY : 居中排列标题   
 > 属性例子 2:    
-> &lt;body&amp; 定义 HTML 文档的主体。  
-	```
-	<body bgcolor="yellow"> 拥有关于背景颜色的附加信息。
-	在 HTML 4.01 中，不赞成使用 body 元素的 bgcolor 属性；在 XHTML 1.0 Strict DTD 中，不支持 body 元素的 bgcolor 属性。请使用 CSS 代替。
-	CSS 语法：<body style="background-color:#E6E6FA">
-	```
+> &lt;body&amp; 定义 HTML 文档的主体。   
+```
+<body bgcolor="yellow"> 拥有关于背景颜色的附加信息。
+在 HTML 4.01 中，不赞成使用 body 元素的 bgcolor 属性；在 XHTML 1.0 Strict DTD 中，不支持 body 元素的 bgcolor 属性。请使用 CSS 代替。
+CSS 语法：<body style="background-color:#E6E6FA">   
+```
 > TIY : 背景颜色  
 > 属性例子 3:    
-> &lt;table&amp; 定义 HTML 表格。
-	```
-	<table border="1"> 拥有关于表格边框的附加信息。
-	```
-
+> &lt;table&amp; 定义 HTML 表格。    
+```
+<table border="1"> 拥有关于表格边框的附加信息。
+```
+    
 &lt;hr/&gt;为水平分割线
 
 
