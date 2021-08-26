@@ -82,27 +82,28 @@ __HTML 文档是由 HTML 元素定义的。__
 
 ## HTML 属性  
 * ### 属性实例  
-HTML 链接由 &lt;a> 标签定义。链接的地址在 href 属性中指定：  
+	HTML 链接由 &lt;a> 标签定义。链接的地址在 href 属性中指定：  
 	```
 	<a href="http://www.w3school.com.cn">This is a link</a>
 	```
 > 更多 HTML 属性实例
 > 属性例子 1:    
 > &lt;h1> 定义标题的开始。
+	
 	```
 	<h1 align="center">拥有关于对齐方式的附加信息。
-	```
+> ```
 > TIY : 居中排列标题  
 > 属性例子 2:    
-> &lt;body&amp; 定义 HTML 文档的主体。
+	&lt;body&amp; 定义 HTML 文档的主体。
 	```
 	<body bgcolor="yellow"> 拥有关于背景颜色的附加信息。
-	```
-TIY : 背景颜色  
+```
+> TIY : 背景颜色  
 > 属性例子 3:    
-> &lt;table&amp; 定义 HTML 表格。
+	&lt;table&amp; 定义 HTML 表格。
 	```
-	<table border="1"> 拥有关于表格边框的附加信息。
+    <table border="1"> 拥有关于表格边框的附加信息。
     ```
 
 &lt;hr/&gt;为水平分割线
@@ -114,6 +115,7 @@ TIY : 背景颜色
 <body>
     <input type="button" onclick="shareQQzone();" value="分享">
 </body>
+
 <script src="http://qzonestyle.gtimg.cn/qzone/app/qzlike/qzopensl.js#jsdate=20111201" charset="utf-8"></script>
 <script>
     //QQ空间分享方法:这样写可以对分享事件进行绑定
