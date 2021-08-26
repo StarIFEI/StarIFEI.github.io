@@ -98,7 +98,7 @@ __HTML 文档是由 HTML 元素定义的。__
 > &lt;body&amp; 定义 HTML 文档的主体。
 	```
 	<body bgcolor="yellow"> 拥有关于背景颜色的附加信息。
-```
+	```
 > TIY : 背景颜色  
 > 属性例子 3:    
 > &lt;table&amp; 定义 HTML 表格。
