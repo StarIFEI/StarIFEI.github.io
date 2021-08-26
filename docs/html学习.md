@@ -88,23 +88,23 @@ __HTML 文档是由 HTML 元素定义的。__
 	```
 > 更多 HTML 属性实例
 > 属性例子 1:    
-> &lt;h1> 定义标题的开始。
+> &lt;h1&amp; 定义标题的开始。
 	
 	```
 	<h1 align="center">拥有关于对齐方式的附加信息。
-> ```
+	```
 > TIY : 居中排列标题  
 > 属性例子 2:    
-	&lt;body&amp; 定义 HTML 文档的主体。
+> &lt;body&amp; 定义 HTML 文档的主体。
 	```
 	<body bgcolor="yellow"> 拥有关于背景颜色的附加信息。
 ```
 > TIY : 背景颜色  
 > 属性例子 3:    
-	&lt;table&amp; 定义 HTML 表格。
+> &lt;table&amp; 定义 HTML 表格。
 	```
-    <table border="1"> 拥有关于表格边框的附加信息。
-    ```
+	<table border="1"> 拥有关于表格边框的附加信息。
+	```
 
 &lt;hr/&gt;为水平分割线
 
