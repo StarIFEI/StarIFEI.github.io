@@ -20,9 +20,9 @@
 地理学科([开始学习](docs/地理学习.md))
 ![地理](../image/Geo.png)
 > ## 自学习笔记
-HTML &emsp;([开始学习](docs/html学习.md))    
-Markdown &emsp;([开始学习](docs/markdown学习.md))    
-更专业的markdown学习网站[https://markdown.com.cn/](https://markdown.com.cn/)   
+	HTML &emsp;([开始学习](docs/html学习.md))    
+	Markdown &emsp;([开始学习](docs/markdown学习.md))    
+	更专业的markdown学习网站[https://markdown.com.cn/](https://markdown.com.cn/)   
 
 ---
 
