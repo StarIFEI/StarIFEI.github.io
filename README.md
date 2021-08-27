@@ -1,5 +1,5 @@
 # _欢迎来到 StarIFEI 的个人博客_
-## 关于博主 &emsp;([StarIFEI是个什么屑 ? ? ?](/docs/aboutme.md "点进来看看吧！"))
+## 关于博主 &emsp;([StarIFEI是个什么屑 ? ? ?](/docs/aboutme.html "点进来看看吧！"))
 ***内附惊喜***
 
 ---------------------------------------------
@@ -19,8 +19,8 @@
 > ## 线上学习 &emsp;([开始学习](docs/study.md))
 ![学习](../image/study.png)  
 > ## 自学习笔记
-HTML &emsp;([开始学习](docs/html学习.md))    
-Markdown &emsp;([开始学习](docs/markdown学习.md))    
+HTML &emsp;([开始学习](docs/html学习.html))    
+Markdown &emsp;([开始学习](docs/markdown学习.html))    
 更专业的markdown学习网站 &emsp;(<https://markdown.com.cn/>)   
 
 ---------------------------------------------
