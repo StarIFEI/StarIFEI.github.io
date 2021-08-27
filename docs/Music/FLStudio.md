@@ -5,5 +5,4 @@
 3. 如图![FL%20Studio下载以及安装02](/image/FL%20Studio下载以及安装02.png)
 4. 选择版本安装即可  
   
-  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([返回上一级](../../README.md))
