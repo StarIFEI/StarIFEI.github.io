@@ -1,9 +1,11 @@
 # HTML 网页学习  
 ([返回上一级](../README.md))  
 
+([参考]( title="未设定") )  
+
 ---
 
-## 基础语法  
+# 基础语法  
 ~~~  
 <html>
 <body>
@@ -27,49 +29,67 @@ HTML 标签通常是'成对'出现的，比如 &lt; b &gt; 和 &lt; /b &gt;
 标签对中的第一个标签是开始标签，第二个标签是结束标签  
 开始和结束标签也被称为开放标签和闭合标签  
 
-------------------------------------------------------
+---------------------------------------------------------------------------------------
 
-* ### HTML 标题  
+# 网页基本标签  
+
+## HTML 标题  
 __HTML 标题（Heading）是通过 &lt;h1&gt; - &lt;h6&gt; 等标签进行定义的。__  
-* ### HTML 段落  
+
+## HTML 段落  
 __HTML 段落是通过 &lt;p&gt; 标签进行定义的。__  
-* ### HTML 链接  
+
+## HTML 链接  
 __HTML 链接是通过 &lt; a &gt; 标签进行定义的。__   
 ~~~  
 <a href="http://www.w3school.com.cn">This is a link</a>
 ~~~
-* ### HTML 图像  
+
+## HTML 图像  
 __HTML 图像是通过 &lt; img &gt; 标签进行定义的。__  
 _注释：图像的名称和尺寸是以属性的形式提供的。_  
 ~~~  
-<img src="w3school.jpg" width="104" height="142" />
+<img src="path" alt="text title="text "width="x" height="y" />
 ~~~
 
----
+## HTML 换行  
+&lt;br/&gt;为换行  
+
+## HTML 水平线  
+&lt;hr/&gt;为水平分割线  
+
+## HTML 字体样式  
+粗体：&lt;strong&gt;内容&lt;/strong&gt;  
+斜体：&lt;em&gt;内容&lt;/em&gt;  
+
+## HTML 注释和特殊符号  
+注释：&lt;!--内容--&gt;  
+特殊符号：&后接（根据提示）
+
+---------------------------------------------------------------------------------------
 
 
-## HTML 元素  
+# HTML 元素  
 __HTML 文档是由 HTML 元素定义的。__
 * ### HTML 元素语法  
-  HTML 元素指的是从开始标签（start tag）到结束标签（end tag）的所有代码。  
+  ___HTML 元素指的是从开始标签（start tag）到结束标签（end tag）的所有代码。___  
   _注释：开始标签常被称为开放标签（opening tag），结束标签常称为闭合标签（closing tag）。_  
-  
-> * HTML 元素以开始标签起始  
-> * HTML 元素以结束标签终止  
-> * 元素的内容是开始标签与结束标签之间的内容  
-> * 某些 HTML 元素具有空内容（empty content）  
-> * 空元素在开始标签中进行关闭（以开始标签的结束而结束）  
-> * 大多数 HTML 元素可拥有属性  
+    * HTML 元素以开始标签起始  
+    * HTML 元素以结束标签终止  
+    * 元素的内容是开始标签与结束标签之间的内容  
+    * 某些 HTML 元素具有空内容（empty content）  
+    * 空元素在开始标签中进行关闭（以开始标签的结束而结束）  
+    * 大多数 HTML 元素可拥有属性  
 
-> 1. p元素定义了HTML文档段落  
-> 2. body元素定义了HTML文档主体  
-> 3. html元素定义了整个HTML文档  
-<br/>  
-> &lt;br/&gt;为空的 HTML 元素没有内容的 HTML 元素被称为空元素。空元素是在开始标签中关闭的。
-> &lt;br/&gt;就是没有关闭标签的空元素（&lt;br/&gt;标签定义换行）。
-> 在 XHTML、XML 以及未来版本的 HTML 中，所有元素都必须被关闭。
-> 在开始标签中添加斜杠，比如 &lt;br/&gt;，是关闭空元素的正确方法，HTML、XHTML 和 XML > > 都接受这种方式。
-> 即使 &lt;br/&gt; 在所有浏览器中都是有效的，但使用 &lt;br/&gt; 其实是更长远的保障。
+    1. p元素定义了HTML文档段落  
+    2. body元素定义了HTML文档主体  
+    3. html元素定义了整个HTML文档  
+      <br/>  
+      &lt;br/&gt;为空的 HTML 元素没有内容的 HTML 元素被称为空元素。空元素是在开始标签中关闭的。
+      &lt;br/&gt;就是没有关闭标签的空元素（&lt;br/&gt;标签定义换行）。
+      在 XHTML、XML 以及未来版本的 HTML 中，所有元素都必须被关闭。
+      在开始标签中添加斜杠，比如 &lt;br/&gt;，是关闭空元素的正确方法，HTML、XHTML和 XML > > 都接受这种方式。
+      即使 &lt;br/&gt; 在所有浏览器中都是有效的，但使用 &lt;br/&gt; 其实是更长远的保障。
 
 * ### HTML 注释  
 可以将注释插入HTML代码中，这样可以提高其可读性，使代码更易被人理解。浏览器会忽略注释，也不会显示它们。  
@@ -80,17 +100,19 @@ __HTML 文档是由 HTML 元素定义的。__
 
 ------------------------------------------------------------------
 
-&lt;hr/&gt;为水平分割线   
+# HTML 属性
+归纳：属性可以让HTML网页有颜色，排版方式（标题居中或靠边），规定元素类名、id，规定元素额外信息等功能。  
+HTML 标签可以拥有属性。属性提供了有关 HTML 元素的更多的信息。  
+属性总是以名称/值对的形式出现，比如：name="value"。  
+属性总是在 HTML 元素的开始标签中规定。  
 
-------------------------------------------------------------------
-
-## HTML 属性  
-* ### 属性实例  
+* ## 属性实例  
 HTML 链接由 &lt;a> 标签定义。链接的地址在 href 属性中指定：   
 ```
 <a href="http://www.w3school.com.cn">This is a link</a>
 ```
-更多 HTML 属性实例  
+
+* ## 更多 HTML 属性实例  
 属性例子 1:    
 &lt;h1&amp; 定义标题的开始。   
 &lt;h1 align="center"&amp;拥有关于对齐方式的附加信息。
@@ -111,7 +133,9 @@ TIY : 背景颜色
 
 
 [鸣谢](https://www.cnblogs.com/xudong-bupt/p/3909416.html)  
-内容摘自——[W3chool](https://www.w3school.com.cn/html/html_examples.asp)  
+[W3chool](https://www.w3school.com.cn/html/html_examples.asp)   
+[狂神说Java](https://www.bilibili.com/video/BV1x4411V75C?p=5)   
+
 
 <body>
     <input type="button" onclick="shareQQzone();" value="分享">
