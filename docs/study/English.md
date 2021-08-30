@@ -8,6 +8,14 @@
 ## 课堂笔记  
 ![EN](image/EN.png)
 ![EN2](image/EN2.png)
+
+----------------------------------------------------
   
+> approach n.方法、途径  
+> weave 英 [wiːv] 美 [wiːv] v.编织 过去式： wove过去分词： woven  
+> roll 英 [rəʊl] 美 [roʊl] n.**卷**;卷轴;一管 v.(使)**翻滚，滚动**;(使)原地转圈，原地打转;(使)翻身，翻转  
+> peer 英 [pɪə(r)] 美 [pɪr] vi.**仔细看;端详** n.**同伴**;同龄人;同辈;身份(或地位)相同的人  
+
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([返回上一级](../study.md))  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([返回主页](../../README.md))
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([返回主页](../../README.md))
+
