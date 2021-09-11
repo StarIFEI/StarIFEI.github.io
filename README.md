@@ -33,5 +33,5 @@ _联系致邮箱—__[starifei@gmail.com | 2754728380@qq.com](#code "提些意�
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[更新日志](docs/log.md)  
 
 ---------------------------------------------
-
+<body background="/image/background.jpg">
 <body style="background-color:#F5F5F5"></body>
