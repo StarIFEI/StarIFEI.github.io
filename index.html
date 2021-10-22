@@ -13,75 +13,107 @@
         * {
             margin: 0px;
             padding: 0px;
+            box-sizing: border-box;
         }
 
-        .topnav {
-            overflow: hidden;
-            background-color: #000000ec;
-        }
-
-        .topnav p {
-            float: left;
-            display: inline;
-            color: #ffffff;
-            padding: 7px 16px;
-            font-size: 30px;
-            font-weight: 700;
-        }
-
-        .topnav a {
-            float: left;
-            display: inline;
-            color: #ffffff;
-            text-align: center;
-            padding: 14px 25px;
+        a {
             text-decoration: none;
-            font-size: 20px;
-            font-weight: 600;
         }
 
-        /* 改变鼠标悬停时的颜色 */
-        .topnav a:hover {
-            background-color: #8bc4fc;
-            color: black;
+        li {
+            /* 去掉ul前面的符号 */
+            list-style: none;
+        }
+
+        .header {
+            position: fixed;
+            top: 0;
+            background-color: rgb(0, 0, 0);
+            width: 100%;
+            height: 50px;
+            overflow: hidden;
         }
 
         .logo {
             float: left;
-            padding: 5px 575px 0px 40px;
-            vertical-align: middle;
-            text-align: center;
+            padding: 5px 0px 0px 10px;
+        }
+
+        .topnav ul li {
+            float: left;
+            /* 宽度根据元素内容调整 */
+            width: auto;
+            margin: 0 40px;
+        }
+
+        .topnav ul li a {
+            display: block;
+            color: #ffffff;
+            font-size: 20px;
+            font-weight: 600;
+            line-height: 50px;
+            padding: 0px 30px;
+            height: 50px;
+            background-color: rgb(0, 0, 0);
+        }
+
+        /* 改变鼠标悬停时的颜色 */
+        .topnav ul li a:hover {
+            background-color: #8bc4fc;
+            color: black;
+            border-bottom: 3px solid #d1d6e6;
         }
 
         .gradient {
-            height: 700px;
             width: 100%;
+            height: 200vh;
+            margin-top: 50px;
             background: linear-gradient(145deg, #121317, #323B42);
         }
 
-        i {
+        .gradient a {
+            display: block;
             color: white;
+            text-decoration: none;
+            font-size: 22px;
+            line-height: 50px;
+        }
+
+
+        i {
+            color: rgb(255, 255, 255);
         }
     </style>
 </head>
 
 <body>
-    <div class="topnav">
-        <p>StarIFEI</p>
-        <a href="#"><i class="fa fa-home fa-fw"></i>&nbsp;主页</a>
-        <a href="docs/news.html"><i class="fa fa-newspaper-o fa-fw"></i>&nbsp;新闻</a>
-        <a href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp;关于</a>
-        <a href="#"><i class="fa fa-support fa-fw"></i>&nbsp;支持</a>
-        <span class="logo">
-            <img src="img/logo/l5.png" alt="logo" height="45">
-        </span>
-        <a href="#" style=""><i class="fa fa-user-circle-o fa-fw"></i>&nbsp;个人</a>
-
-
-
+    <!-- Navigation -->
+    <div class="header">
+        <img src="img/logo/l5.png" class="logo" alt="logo" height="45">
+        <div class="topnav">
+            <ul>
+                <li>
+                    <a href="#"><i class="fa fa-home fa-fw"></i>&nbsp;主页</a>
+                </li>
+                <li>
+                    <a href="docs/news.html"><i class="fa fa-newspaper-o fa-fw"></i>&nbsp;新闻</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp;关于</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-support fa-fw"></i>&nbsp;支持</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-user-circle-o fa-fw"></i>&nbsp;个人</a>
+                </li>
+            </ul>
+        </div> 
     </div>
     <div class="gradient">
-
+        <a href="https://www.zhihu.com/question/23325960/answer/1803710045">英语日常交流中有哪些是非母语人士不容易意识到的不太礼貌的表达方式？ - Susie
+            戴舒萱的回答 - 知乎</a>
+        <a href="https://zhuanlan.zhihu.com/p/421568861">熟背这些词作文瞬间变得高大上 - 饭团英语的文章 - 知乎</a>
     </div>
 
 </body>
