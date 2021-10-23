@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    /* 去掉ul前面的符号 */
+    list-style: none;
+}
+
+i {
+    color: rgb(255, 255, 255);
+}
+
+

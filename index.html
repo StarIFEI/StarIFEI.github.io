@@ -8,27 +8,19 @@
     <title>Document</title>
     <!-- 引入图标库 -->
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="style.css">
     <style>
-        * {
-            margin: 0px;
-            padding: 0px;
-            box-sizing: border-box;
-        }
 
-        a {
-            text-decoration: none;
+        .hero {
+            width: 100%;
+            height: 100vh;
+            background:url(img/3.jpg)  no-repeat top center ;
+            background-size: cover;
         }
-
-        li {
-            /* 去掉ul前面的符号 */
-            list-style: none;
-        }
-
         .header {
             position: fixed;
             top: 0;
-            background-color: rgb(0, 0, 0);
+            background-color: rgba(0, 0, 0,0.3);
             width: 100%;
             height: 50px;
             overflow: hidden;
@@ -54,66 +46,63 @@
             line-height: 50px;
             padding: 0px 30px;
             height: 50px;
-            background-color: rgb(0, 0, 0);
+            /* background-color: rgb(0, 0, 0); */
         }
 
         /* 改变鼠标悬停时的颜色 */
         .topnav ul li a:hover {
-            background-color: #8bc4fc;
-            color: black;
             border-bottom: 3px solid #d1d6e6;
         }
 
-        .gradient {
+        .content {
             width: 100%;
-            height: 200vh;
+            height: 1080px;
             margin-top: 50px;
-            background: linear-gradient(145deg, #121317, #323B42);
         }
 
-        .gradient a {
+        .content a {
             display: block;
-            color: white;
+            color: rgb(255, 255, 255);
             text-decoration: none;
             font-size: 22px;
             line-height: 50px;
-        }
-
-
-        i {
-            color: rgb(255, 255, 255);
         }
     </style>
 </head>
 
 <body>
-    <!-- Navigation -->
-    <div class="header">
-        <img src="img/logo/l5.png" class="logo" alt="logo" height="45">
-        <div class="topnav">
-            <ul>
-                <li>
-                    <a href="#"><i class="fa fa-home fa-fw"></i>&nbsp;主页</a>
-                </li>
-                <li>
-                    <a href="docs/news.html"><i class="fa fa-newspaper-o fa-fw"></i>&nbsp;新闻</a>
-                </li>
-                <li>
-                    <a href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp;关于</a>
-                </li>
-                <li>
-                    <a href="#"><i class="fa fa-support fa-fw"></i>&nbsp;支持</a>
-                </li>
-                <li>
-                    <a href="#"><i class="fa fa-user-circle-o fa-fw"></i>&nbsp;个人</a>
-                </li>
-            </ul>
-        </div> 
-    </div>
-    <div class="gradient">
-        <a href="https://www.zhihu.com/question/23325960/answer/1803710045">英语日常交流中有哪些是非母语人士不容易意识到的不太礼貌的表达方式？ - Susie
-            戴舒萱的回答 - 知乎</a>
-        <a href="https://zhuanlan.zhihu.com/p/421568861">熟背这些词作文瞬间变得高大上 - 饭团英语的文章 - 知乎</a>
+    <div class="hero">
+        <!-- Navigation -->
+        <div class="header">
+            <img src="img/logo/l5.png" class="logo" alt="logo" height="45">
+            <div class="topnav">
+                <ul>
+                    <li>
+                        <a href="#"><i class="fa fa-home fa-fw"></i>&nbsp;主页</a>
+                    </li>
+                    <li>
+                        <a href="docs/news.html"><i class="fa fa-newspaper-o fa-fw"></i>&nbsp;新闻</a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp;关于</a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-support fa-fw"></i>&nbsp;支持</a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-user-circle-o fa-fw"></i>&nbsp;个人</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!-- 内容 -->
+        <!-- <div class="content">
+            <a href="https://www.zhihu.com/question/23325960/answer/1803710045">英语日常交流中有哪些是非母语人士不容易意识到的不太礼貌的表达方式？ -
+                Susie
+                戴舒萱的回答 - 知乎</a>
+            <a href="https://zhuanlan.zhihu.com/p/421568861">熟背这些词作文瞬间变得高大上 - 饭团英语的文章 - 知乎</a>
+        </div> -->
+
     </div>
 
 </body>
