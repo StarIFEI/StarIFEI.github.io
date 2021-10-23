@@ -18,26 +18,28 @@
         }
 
         .header {
-            position: fixed;
+            position: relative;
+            top: 7px;
             width: 100%;
             height: 50px;
-            margin-top: 10px;
-            /* background-color: rgba(0, 0, 0, 0.3); */
+            /* background-color: rgba(212, 54, 54, 0.3); */
 
         }
 
         .logo {
             float: left;
             width: 230px;
-            padding-top: 4px;
+            padding-top: 3px;
             margin-left: 40px;
             /* background-color: salmon; */
         }
 
         .topnav {
+
+            float: left;
             height: 50px;
-            width: 900px;
-            margin: 0px auto;
+            width: 800px;
+            margin-left: 450px;
             /* background-color: rgb(70, 20, 15); */
         }
 
@@ -46,21 +48,21 @@
             /* 宽度根据元素内容调整 */
             width: auto;
             height: 50px;
-            margin: 0 20px;
+            margin: 0 19px;
         }
 
         .topnav ul li:first-child {
-            margin-left: 50px;
+            margin-left: 47px;
         }
 
         .topnav ul li a {
             display: block;
             color: #ffffff;
             height: 50px;
-            font-size: 17px;
+            font-size: 16px;
             font-weight: 600;
             line-height: 50px;
-            padding: 0px 30px;
+            padding: 0px 27px;
             /* background-color: rgb(0, 0, 0); */
         }
 
@@ -70,16 +72,36 @@
         }
 
         .content {
-            width: 100%;
-            height: 1080px;
-            margin-top: 50px;
+            width: 1200px;
+            height: 500px;
+            margin: 0px auto;
+            margin-top: 40px;
         }
 
-        .content a {
-            display: block;
-            color: rgb(255, 255, 255);
-            font-size: 22px;
-            line-height: 50px;
+        .boxA {
+            float: left;
+            height: 220px;
+            width: 200px;
+            margin: 20px;
+            
+        }
+
+
+        .footer{
+            margin-top: 40px;
+            height: 90px;
+        }
+
+        .test {
+            background-color: rgba(0, 0, 0, 0.3);
+            border: rgba(0, 0, 0, 0.3);
+            border-radius: 20px;
+        }
+        .test2 {
+            background-color: rgb(231, 109, 129);
+        }
+        .test3 {
+            background-color: rgb(255, 8, 49);
         }
     </style>
 </head>
@@ -111,14 +133,16 @@
                 </ul>
             </div>
         </div>
-        <!-- 内容 -->
-        <!-- <div class="content">
-            <a href="https://www.zhihu.com/question/23325960/answer/1803710045">英语日常交流中有哪些是非母语人士不容易意识到的不太礼貌的表达方式？ -
-                Susie
-                戴舒萱的回答 - 知乎</a>
-            <a href="https://zhuanlan.zhihu.com/p/421568861">熟背这些词作文瞬间变得高大上 - 饭团英语的文章 - 知乎</a>
-        </div> -->
-
+        <!-- section -->
+        <div class="content test">
+            <!-- <div class="boxA test2">
+                2345
+            </div> -->
+        </div>
+        <!-- footer -->
+        <div class="footer test">
+            23
+        </div>
     </div>
 
 </body>
