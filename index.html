@@ -11,10 +11,17 @@
     <link rel="stylesheet" href="style.css">
     <style>
         .hero {
+            position: fixed;
             width: 100%;
-            height: 100vh;
+            min-width: 1000px;
+            height: 100%;
+            z-index: -10;
+            zoom: 1;
             background: url(img/3.jpg) no-repeat top center;
             background-size: cover;
+            -webkit-background-size: cover;
+            -o-background-size: cover;
+            background-position: center 0;
         }
 
         .header {
@@ -30,7 +37,7 @@
             float: left;
             width: 230px;
             padding-top: 3px;
-            margin-left: 40px;
+            margin-left: 60px;
             /* background-color: salmon; */
         }
 
@@ -81,11 +88,11 @@
             height: 220px;
             width: 200px;
             margin: 20px;
-            
+
         }
 
 
-        .footer{
+        .footer {
             margin-top: 40px;
             height: 90px;
         }
@@ -95,9 +102,11 @@
             border: rgba(0, 0, 0, 0.3);
             border-radius: 20px;
         }
+
         .test2 {
             background-color: rgb(231, 109, 129);
         }
+
         .test3 {
             background-color: rgb(255, 8, 49);
         }
