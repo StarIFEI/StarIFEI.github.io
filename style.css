@@ -17,5 +17,7 @@ i {
     color: rgb(255, 255, 255);
 }
 
-
-
+.w {
+    margin: 0px auto;
+    width: 1200px;
+}
