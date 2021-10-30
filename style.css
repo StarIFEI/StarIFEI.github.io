@@ -22,8 +22,8 @@ i {
 }
 /* 版心 */
 .w {
-    margin: 0 auto;
     width: 1200px;
+    margin: 0 auto;
     /* background-color: pink; */
 }
 
@@ -46,6 +46,7 @@ i {
     height: 100vh;
     z-index: -10;
     zoom: 1;
+    /* background: url(img/3.jpg) no-repeat center center; */
     background: url(img/3.jpg) no-repeat center center;
     background-size: cover;
     -webkit-background-size: cover;
@@ -119,18 +120,20 @@ i {
     color: rgba(0, 0, 0, 0.205);
 } 
 .Main h2 {
+    position: relative;
     color: rgb(255, 255, 255);
     font-size: 45px;
+    z-index: 1;
 }
 .Main p {
+    position: relative;
     color: rgb(255, 255, 255);
     font-size: 30px;
 }
 
-
 .MianBox {
     height: 250px;
-    border-radius: 20px;
+    width: 1200px;
 }
 
 .SmallBox {
