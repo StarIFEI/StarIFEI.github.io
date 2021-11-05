@@ -47,7 +47,7 @@ i {
     z-index: -10;
     zoom: 1;
     /* background: url(img/3.jpg) no-repeat center center; */
-    background: url(https://s1.imagehub.cc/images/2021/10/30/hutao.gif) no-repeat center center;
+    background: url(img/3bg.jpg) no-repeat center center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -88,7 +88,8 @@ i {
 }
 .topnav ul li a {
     display: block;
-    color: rgb(255, 255, 255);
+    color: rgba(204, 204, 204, 0.726);
+    border-bottom: 3px solid transparent;
     height: 50px;
     font-size: 16px;
     font-weight: 600;
@@ -98,7 +99,9 @@ i {
 }
 /* 改变鼠标悬停时的颜色 */
 .topnav ul li a:hover {
-    border-bottom: 3px solid rgb(206, 213, 250);
+    border-bottom: 3px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    transition: border-bottom ease-in .3s ,color ease-in .3s;
 }
 
 
@@ -112,7 +115,7 @@ i {
 .Main div {
     position: absolute;
     left: 27%;
-    top: -150px;
+    top: -140px;
     /* background-color: rgb(255, 0, 128); */
 }
 .Main div i{
@@ -123,12 +126,14 @@ i {
     position: relative;
     color: rgb(255, 255, 255);
     font-size: 45px;
+    text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.363);
     z-index: 1;
 }
 .Main p {
     position: relative;
     color: rgb(255, 255, 255);
-    font-size: 30px;
+    text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.452);
+    font-size: 23px;
 }
 
 .MianBox {
