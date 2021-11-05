@@ -39,6 +39,10 @@ i {
     background-color: rgba(0, 0, 0, 0.5);
     z-index: 1;
 }
+#to-top a:hover i {
+    color: rgba(204, 204, 204, 0.726);
+    transition: all ease-in .2s;
+}
 
 .hero {
     width: 100%;
@@ -71,7 +75,7 @@ i {
 }
 .topnav {
     height: 50px;
-    width: 800px;
+    width: 830px;
     margin: 0 auto;
     /* background-color: rgb(70, 20, 15); */
 }
@@ -106,6 +110,16 @@ i {
 
 
 /* 内容主体 */
+/* s1 */
+section {
+    height: 1000px;
+}
+
+
+
+
+
+/* s2 */
 .Main {
     position: relative;
     margin-top: 30vh;
@@ -126,21 +140,22 @@ i {
     position: relative;
     color: rgb(255, 255, 255);
     font-size: 45px;
+    letter-spacing: 3px;
     text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.363);
     z-index: 1;
 }
 .Main p {
     position: relative;
     color: rgb(255, 255, 255);
-    text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.452);
     font-size: 23px;
-}
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.452);
 
+}
 .MianBox {
     height: 250px;
     width: 1200px;
 }
-
 .SmallBox {
     float: left;
     margin-top: 15px;
@@ -149,6 +164,7 @@ i {
     width: 275px;
     border-radius: 20px;
 }
+
 
 .footer {
     margin-top: 40px;
