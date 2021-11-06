@@ -47,7 +47,7 @@ i {
 .hero {
     width: 100%;
     min-width: 1400px;
-    height: 50vh;
+    height: 100vh;
     z-index: -10;
     zoom: 1;
     /* background: url(img/3.jpg) no-repeat center center; */
@@ -66,17 +66,23 @@ i {
     /* background-color: rgba(0, 0, 0, 0.3); */
 
 }
+/* logo */
 .logo {
     float: left;
     width: 230px;
-    padding-top: 3px;
     margin-left: 60px;
     /* background-color: salmon; */
 }
+.logo img {
+    padding-top: 4px;
+
+}
+/* 导航 */
 .topnav {
+    float: right;
     height: 50px;
     width: 830px;
-    margin: 0 auto;
+    margin: auto;
     /* background-color: rgb(70, 20, 15); */
 }
 .topnav ul li {
@@ -92,7 +98,7 @@ i {
 }
 .topnav ul li a {
     display: block;
-    color: rgba(204, 204, 204, 0.726);
+    color: rgba(228, 228, 228, 0.726);
     border-bottom: 3px solid transparent;
     height: 50px;
     font-size: 16px;
@@ -107,6 +113,29 @@ i {
     color: rgb(255, 255, 255);
     transition: border-bottom ease-in .3s ,color ease-in .3s;
 }
+/* 搜索 */
+.search {
+    float: left;
+    width: 280px;
+    height: 50px;
+    /* background-color: pink; */
+}
+.search input {
+    height: 35px;
+    width: 94px;
+    margin-top: 7px;
+    font-size: 15px;
+    text-indent: 10px;
+    border: transparent;
+    background-color: rgba(228, 228, 228, 0.726);
+    border-radius: 16px;
+}
+.search input:hover {
+    width: 260px;
+    background-color: rgba(255, 255, 255, 0.842);
+    transition: all ease-in .5s;
+}
+
 
 
 /* 内容主体 */
