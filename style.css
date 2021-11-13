@@ -5,7 +5,8 @@
     font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
 }
 body {
-    background-color: rgb(0, 54, 111);
+    min-width: 1400px;
+    background-color: rgb(0,51,102);
 }
 
 a {
@@ -22,9 +23,21 @@ i {
 }
 /* 版心 */
 .w {
-    width: 1200px;
+    width: 1400px;
     margin: 0 auto;
     /* background-color: pink; */
+}
+/* 清除浮动 */
+.clearfix::before,
+.clearfix::after{
+    content: " ";
+    display: table; 
+}
+.clearfix::after {
+    clear: both;
+}
+.clearfix {
+    *zoom: 1;
 }
 
 #to-top a {
@@ -43,34 +56,61 @@ i {
     color: rgba(204, 204, 204, 0.726);
     transition: all ease-in .2s;
 }
+#to-next {
+    position: absolute;
+    left: calc(50% - 12px);
+    bottom: 25px;
+    
+}
 
 .hero {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
     min-width: 1400px;
     height: 100vh;
+    min-height: 767px;
     z-index: -10;
     zoom: 1;
     /* background: url(img/3.jpg) no-repeat center center; */
-    background: url(img/3bg.jpg) no-repeat center center;
+    background: url(img/bg/bg-main2.png) no-repeat center center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
 }
+.hero::before {
+    content: "";
+    display: block;
+    height: 100%;
+    width: 100%;
+    background-color: rgba( 0, 0, 0, .3);
+    z-index: 0;
+}
 
 /* 头部 */
 .header {
-    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
     padding-top: 7px;
     width: 100%;
     height: 57px;
+    z-index: 100;
     /* background-color: rgba(0, 0, 0, 0.3); */
-
+}
+.topbar {
+    width: 1300px;
+    height: 50px;
+    margin: 0 auto;
+    /* background-color: rgb(158, 100, 100); */
 }
 /* logo */
 .logo {
+    display: block;
     float: left;
     width: 230px;
-    margin-left: 60px;
+    margin-left: 20px;
     /* background-color: salmon; */
 }
 .logo img {
@@ -79,22 +119,21 @@ i {
 }
 /* 导航 */
 .topnav {
+    display: flex;
     float: right;
     height: 50px;
-    width: 830px;
-    margin: auto;
+    width: 640px;
     /* background-color: rgb(70, 20, 15); */
+    justify-content: space-around;
+
 }
 .topnav ul li {
     float: left;
     /* 宽度根据元素内容调整 */
     width: auto;
     height: 50px;
-    margin: 0 19px;
+    margin: 0px 5px;
     /* background-color: rgb(255, 21, 0); */
-}
-.topnav ul li:first-child {
-    margin-left: 47px;
 }
 .topnav ul li a {
     display: block;
@@ -127,7 +166,7 @@ i {
     font-size: 15px;
     text-indent: 10px;
     border: transparent;
-    background-color: rgba(228, 228, 228, 0.726);
+    background-color: rgba(221, 221, 221, 0.726);
     border-radius: 16px;
 }
 .search input:hover {
@@ -136,37 +175,31 @@ i {
     transition: all ease-in .5s;
 }
 
+
 /* 第一版文字 */
-.Main {
-    position: relative;
-    margin-top: 30vh;
-    text-align: center;
+.hero-content {
+    position: absolute;
+    top: calc(50% - 150px);
+    left: calc(50% - 625px);
+    height: 250px;
+    width: 300px;
+    
+    z-index: 10;
     /* background-color: rgba(255, 117, 117); */
 }
-.Main div {
-    position: absolute;
-    left: 27%;
-    top: -140px;
-    /* background-color: rgb(255, 0, 128); */
-}
-.Main div i{
-    font-size: 400px;
-    color: rgba(0, 0, 0, 0.205);
-} 
-.Main h2 {
-    position: relative;
+.hero-content h2 {
     color: rgb(255, 255, 255);
-    font-size: 45px;
-    letter-spacing: 3px;
-    text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.363);
-    z-index: 1;
+    font-size: 47px;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.3)
 }
-.Main p {
-    position: relative;
+.hero-content p {
+    margin-top: 60px;
     color: rgb(255, 255, 255);
-    font-size: 23px;
-    letter-spacing: 2px;
-    text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.452);
+    line-height: 30px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.555);
 
 }
 
@@ -175,11 +208,33 @@ i {
 
 
 /* 内容主体 */
-/* s1 */
-section {
-    height: 1000px;
+#content {
+    width: 100%;
+    min-width: 1400px;
+    height: auto;
 }
 
+/* s1 */
+.about {
+    width: 100%;
+    min-width: 1400px;
+    height: 120vh;
+    z-index: -10;
+    zoom: 1;
+    /* background: url(img/3.jpg) no-repeat center center; */
+    background: url(img/bg/bg-s1.png) no-repeat center center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+}
+.about::before {
+    content: "";
+    display: block;
+    height: 100%;
+    width: 100%;
+    background-color: rgba( 0, 0, 0, .6);
+    z-index: 0;
+}
 /* s2 */
 
 .MianBox {
