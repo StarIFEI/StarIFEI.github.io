@@ -1,91 +1,41 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
+        
 
-        #bg {
-            background-image: url(../background\ img/3bg.jpg);
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            min-width: 1000px;
-            z-index: -10;
-            zoom: 1;
-            background-repeat: no-repeat;
-            background-size: cover;
-            -webkit-background-size: cover;
-            -o-background-size: cover;
-            background-position: center 0;
+        /*滚动条样式*/
+        .innerbox::-webkit-scrollbar {
+            width: 14px;    
+            /*height: 4px;*/
         }
+        .innerbox::-webkit-scrollbar-thumb {
+            border-radius: 10px;
+            -webkit-box-shadow: inset 0 0 5px rgba(255, 0, 0, 0.788);
+            background: rgba(0, 174, 255, 0.61);
+        }
+        .innerbox::-webkit-scrollbar-track {
+            -webkit-box-shadow: inset 0 0 5px rgb(208, 255, 0);
+            border-radius: 0;
+            background: rgb(76, 0, 255);
 
-        .nav {
-            background-color: rgb(58, 58, 58);
-            width: 100%;
-            height: 50px;
-            opacity: 0.4;
         }
-
-        #logo {
-            height: 50px;
-        }
-
-        .nav ul {
-            display: inline-block;
-        }
-
-        .nav ul li {
-            list-style: none;
-            float: left;
-        }
-
-        .nav ul li a {
-            text-decoration: none;
-            font-size: 30px;
-            color: white;
-            padding: 20px;
-        }
+        html, body { scroll-behavior:smooth; }
     </style>
-
 </head>
+<body class="innerbox">
+    <div class="inner">
+        <div class="innerbox">
+        <p style="height:200px;">这是内容111</p>
+        <p style="height:400px;">这里是内容222</p>
+        <p>这里是内容333</p>
+    </div>
 
-<body>
-    <section id="bg">
-        <div class="nav">
-            <img src="../background img/2021LOGO2.png" id="logo">
+</div>
 
-            <ul>
-                <li>
-                    <a href="#"><i class="fa fa-home fa-fw"></i>&nbsp;主页</a>
-                </li>
-                <li>
-                    <a href="docs/news.html"><i class="fa fa-newspaper-o fa-fw"></i>&nbsp;新闻</a>
-                </li>
-                <li>
-                    <a href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp;关于</a>
-                </li>
-                <li>
-                    <a href="#"><i class="fa fa-support fa-fw"></i>&nbsp;支持</a>
-                </li>
-                <li>
-                    <a href="#"><i class="fa fa-user-circle-o fa-fw"></i>&nbsp;个人</a>
-                </li>
-            </ul>
-
-        </div>
-
-
-    </section>
 </body>
-
 </html>

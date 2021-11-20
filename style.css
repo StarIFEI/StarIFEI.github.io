@@ -78,6 +78,7 @@ i {
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
+    z-index: -10;
 }
 .hero::before {
     content: "";
@@ -85,7 +86,7 @@ i {
     height: 100%;
     width: 100%;
     background-color: rgba( 0, 0, 0, .3);
-    z-index: 0;
+    z-index: -5;
 }
 
 /* 头部 */
@@ -183,7 +184,6 @@ i {
     left: calc(50% - 625px);
     height: 250px;
     width: 300px;
-    
     z-index: 10;
     /* background-color: rgba(255, 117, 117); */
 }
@@ -204,9 +204,6 @@ i {
 }
 
 
-
-
-
 /* 内容主体 */
 #content {
     width: 100%;
@@ -216,6 +213,7 @@ i {
 
 /* s1 */
 .about {
+    position: relative;
     width: 100%;
     min-width: 1400px;
     height: 120vh;
@@ -226,6 +224,7 @@ i {
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
+
 }
 .about::before {
     content: "";
@@ -233,7 +232,25 @@ i {
     height: 100%;
     width: 100%;
     background-color: rgba( 0, 0, 0, .6);
-    z-index: 0;
+    z-index: -5;
+}
+.about-detail-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    /* background-color: pink; */
+    
+}
+
+.detail-content {
+    line-height: 40px;
+    font-size: 23px;
+    letter-spacing: 2px;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.555);
+    z-index: 10;
 }
 /* s2 */
 
